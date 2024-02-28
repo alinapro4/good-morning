@@ -1,0 +1,13 @@
+h1 {
+  font-size: 30px;
+  color: lightcoral;
+  margin-bottom: 20px;
+}
+p {
+  color: blueviolet;
+}
+
+.output {
+  color: coral;
+  margin-top: 20px;
+}
